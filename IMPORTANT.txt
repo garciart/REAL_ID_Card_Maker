@@ -1,0 +1,11 @@
+﻿Started with Create a web app with ASP.NET Core MVC on macOS with Visual Studio for Mac
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-mac/?view=aspnetcore-2.1
+Make sure that Authentication is set to No Authentication
+Before you start the "Add a model" section, do this first, replacing SqlServer with SqlLite:
+https://docs.microsoft.com/en-us/ef/core/get-started/install/index
+For "Add a model", follow these instructions instead:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-2.1
+
+
+To add identity, use Scaffold Identity in ASP.NET Core projects:
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio
