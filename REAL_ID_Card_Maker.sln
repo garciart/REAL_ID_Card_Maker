@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REAL_ID_Card_Maker", "Real_ID_Card_Maker_Core\REAL_ID_Card_Maker.csproj", "{907A283A-53BA-4B73-BE80-8124D0282937}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REAL_ID_Card_Maker", "REAL_ID_Card_Maker\REAL_ID_Card_Maker.csproj", "{BCC7F4C5-EEF8-49D0-9A19-7F9DD6A02B6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{907A283A-53BA-4B73-BE80-8124D0282937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{907A283A-53BA-4B73-BE80-8124D0282937}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{907A283A-53BA-4B73-BE80-8124D0282937}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{907A283A-53BA-4B73-BE80-8124D0282937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC7F4C5-EEF8-49D0-9A19-7F9DD6A02B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC7F4C5-EEF8-49D0-9A19-7F9DD6A02B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC7F4C5-EEF8-49D0-9A19-7F9DD6A02B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC7F4C5-EEF8-49D0-9A19-7F9DD6A02B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
