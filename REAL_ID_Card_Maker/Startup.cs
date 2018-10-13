@@ -42,6 +42,7 @@ namespace REAL_ID_Card_Maker {
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseAuthentication();
             app.UseCookiePolicy();
 
             app.UseMvc(routes => {
