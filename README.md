@@ -1,4 +1,4 @@
-# REAL-ID-Card-Maker
+# REAL ID Card Maker
 The Real ID Card Maker allows the Salisbury Fire Department to create identification cards compliant with the REAL ID Act of 2005.
 <h2>Table of Contents:</h2>
 <ul>

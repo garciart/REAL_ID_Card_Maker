@@ -9,3 +9,5 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-mode
 
 To add identity, use Scaffold Identity in ASP.NET Core projects:
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-2.1&tabs=visual-studio
+
+Default = P@$$w0rd
