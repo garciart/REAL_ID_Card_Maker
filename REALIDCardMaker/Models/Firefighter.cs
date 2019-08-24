@@ -5,17 +5,17 @@ using System.Threading.Tasks;
 
 namespace REALIDCardMaker.Models {
     public class Firefighter {
-        public int ID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public int id { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
         public string MI { get; set; }
         public DateTime DOB { get; set; }
-        public char Sex { get; set; }
-        public int Height { get; set; }
-        public string EyeColor { get; set; }
-        public string BloodType { get; set; }
-        public DateTime StartYear { get; set; }
-        public string Rank { get; set; }
-        public string Title { get; set; }
+        public char sex { get; set; }
+        public int height { get; set; }
+        public string eyeColor { get; set; }
+        public string bloodType { get; set; }
+        public DateTime startYear { get; set; }
+        public string rank { get; set; }
+        public string title { get; set; }
     }
 }
